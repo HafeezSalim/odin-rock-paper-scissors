@@ -16,3 +16,6 @@ function getHumanChoice() {
     userChoice = userChoice.toLowerCase();
     return userChoice.toLowerCase();
 }
+
+let humanScore = 0;
+let computerScore = 0;
